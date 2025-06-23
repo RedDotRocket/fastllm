@@ -17,7 +17,7 @@ tracing = "0.1"
 tracing-subscriber = { version = "0.3", features = ["env-filter"] }
 tower-http = { version = "0.6", features = ["trace"] }
 candle-core = { version = "0.9.1" }
-candle-nn = { version = "0.8.2" }
+candle-nn = { version = "0.9.1" }
 candle-transformers = { version = "0.8.2" }
 tokenizers = "0.21.0"
 hf-hub = { version = "0.4", features = ["tokio"] }
